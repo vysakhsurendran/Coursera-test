@@ -1,0 +1,53 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #2F4F4F;
+  font-family: 'Oxygen', sans-serif;
+}
+.navbar-header{
+}
+.container{
+	padding: 10px;
+}
+.navbar-brand h1{
+  font-family:'Anton', sans-serif;
+  color: #800000;
+  font-size: 40px;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+
+
+}
+#nav-list #a1{
+	background: #9542f5;
+	text-align: center;
+	color: white
+}
+#nav-list #a2{
+	background: #dd42f5;
+	text-align: center;
+	color: white
+}
+#nav-list #a3{
+	background: #f54287;
+	text-align: center;
+	color: white
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+.category-tile h3{
+	text-align: center;
+}
+.jumbotron{
+	
+	color: black;
+	padding: 10px;
+	background: #ffcccc;
+}
